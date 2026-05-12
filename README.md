@@ -50,7 +50,7 @@ A Pomodoro-style focus timer built on an Arduino Mega 2560 with a 4" TFT display
 | VDD | 5V |
 | GND | GND |
 | SDNN | 5V (keeps amp enabled) |
-| RINP | Arduino Pin 44 via 200 Ω resistor |
+| RINP | Arduino Pin 44 via 10 kΩ resistor |
 | RINN | GND |
 | ROUTP / ROUTN | Speaker + / Speaker - |
 
